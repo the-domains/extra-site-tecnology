@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Extra Site Tecnology]]></title>
+        <description><![CDATA[Extra Site Tecnology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 11:59:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These Students Built A Glove That Translates Sign Language Into English]]></title>
+            <description><![CDATA[<article><h1>These Students Built A Glove That Translates Sign Language Into English</h1><p>A pair of undergraduates at the University of Washington made a glove that translates gestures in American Sign Language (ASL) into English and speaks it via speakers. The SignAloud glove won them a $10,000 Lemelson-MIT Student Prize and international attention.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/660a2af9d38a347355d0385d8c4903cccf572fc8.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3059616/these-students-built-a-glove-that-translates-sign-language-into-english</link>
+            <guid isPermaLink="false">034dcb9f-409a-416d-b2a9-0e18ace02c65</guid>
+            <pubDate>Fri, 20 May 2016 11:59:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
